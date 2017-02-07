@@ -1,0 +1,11 @@
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\bin\Debug\Outsurance.Assessment.Forms.exe.config
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\bin\Debug\Outsurance.Assessment.Forms.exe
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\bin\Debug\Outsurance.Assessment.Forms.pdb
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\obj\Debug\Outsurance.Assessment.Forms.csprojResolveAssemblyReference.cache
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\obj\Debug\Outsurance.Assessment.Forms.frmAssessment.resources
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\obj\Debug\Outsurance.Assessment.Forms.Properties.Resources.resources
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\obj\Debug\Outsurance.Assessment.Forms.csproj.GenerateResource.Cache
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\obj\Debug\Outsurance.Assessment.Forms.exe
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\obj\Debug\Outsurance.Assessment.Forms.pdb
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\bin\Debug\Outsurance.Assessment.Logic.dll
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Forms\bin\Debug\Outsurance.Assessment.Logic.pdb

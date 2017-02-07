@@ -1,0 +1,5 @@
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Logic\bin\Debug\Outsurance.Assessment.Logic.dll
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Logic\bin\Debug\Outsurance.Assessment.Logic.pdb
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Logic\obj\Debug\Outsurance.Assessment.Logic.csprojResolveAssemblyReference.cache
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Logic\obj\Debug\Outsurance.Assessment.Logic.dll
+c:\users\superbob\documents\visual studio 2015\Projects\Outsurance.Assessment\Outsurance.Assessment.Logic\obj\Debug\Outsurance.Assessment.Logic.pdb
